@@ -1,7 +1,8 @@
 <!-- Level 2: Not too Simple -->
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
-    <h1>Hi, I’m Nico!</h1>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=F70000&center=true&multiline=true&width=650&lines=I'm+Nico!;A+code+Wizard%2C+turning+coffee+into+spells+of+software" alt="Typing SVG" /></a>
+    <br><br/>
     <img align="right" src="/assets/chainsaw-man-power-1.gif" alt="gif" width="350"/>
     <p>💻 Developer in training, passionate about technology, programming, and continuous learning.<br>
     🚀 Currently exploring <b>React, FastApi, and databases</b>, along with personal projects that combine <a href="https://github.com/tu-enlace">art, 3D printing</a>, and web development.<br>
