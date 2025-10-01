@@ -1,5 +1,5 @@
 <!-- Level 1: Simple bio and stats -->
-### Hi, I’m POWER!
+### Hi, I’m Nico!
 
 💻 Developer in training, passionate about technology, programming, and continuous learning.<br/>
 🚀 Currently exploring React, FastApi, and databases, along with personal projects that combine art, 3D printing [READ 3D](https://read3d.empretienda.com.ar), and web development.<br/>
