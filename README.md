@@ -1,4 +1,13 @@
-<!-- Level 2: Not too Simple -->
+<!-- 
+    /\_____/\
+   /  o   o  \
+  ( ==  ^  == )
+   )         (
+  (           )
+ ( (  )   (  ) )
+(__(__)___(__)__)  Shamsiel... -->
+
+<!-- Level 3 -->
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=900&color=F70000&center=true&vCenter=true&multiline=true&width=650&height=70&lines=I'm+Nico!;A+code+Wizard%2C+turning+coffee+into+spells+of+software" alt="Typing SVG" /></a>
