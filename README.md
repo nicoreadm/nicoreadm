@@ -14,7 +14,7 @@
     <br><br/>
     <img align="right" src="/assets/chainsaw-man-power-4.gif" alt="gif" width="350"/>
     <p>💻 Developer in training, passionate about technology, programming, and continuous learning.<br>
-    🚀 Currently exploring <b>React, FastApi, and databases</b>, along with personal projects that combine <a href="https://github.com/tu-enlace">art, 3D printing</a>, and web development.<br>
+    🚀 Currently exploring <b>React, FastApi, and databases</b>, along with personal projects that combine <a href="https://read3d.empretienda.com.ar">art, 3D printing</a>, and web development.<br>
     📚 Interested in API development, software development, and technological innovation.<br>
     ⚡ I enjoy building practical projects — from web applications to management systems — and experimenting with new tools.<br>
     🤝 Always open to connect, share ideas, and collaborate on projects.</p>
