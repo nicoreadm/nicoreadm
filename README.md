@@ -13,7 +13,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=900&color=F70000&center=true&vCenter=true&multiline=true&width=650&height=70&lines=I'm+Nico!;A+code+Wizard%2C+turning+coffee+into+spells+of+software" alt="Typing SVG" /></a>
     <br><br/>
     <img align="right" src="/assets/chainsaw-man-power-4.gif" alt="gif" width="350"/>
-    <p>💻 Developer in training, passionate about technology, programming, and continuous learning.<br>
+    <p>💻 Software Developer, passionate about technology, programming, and continuous learning.<br>
     🚀 Currently exploring <b>React, FastApi, and databases</b>, along with personal projects that combine <a href="https://read3d.empretienda.com.ar">art, 3D printing</a>, and web development.<br>
     📚 Interested in API development, software development, and technological innovation.<br>
     ⚡ I enjoy building practical projects — from web applications to management systems — and experimenting with new tools.<br>
